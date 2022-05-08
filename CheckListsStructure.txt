@@ -1,0 +1,8 @@
+1) Number
+2) Priority
+3) Preconditions
+3) Check name (description)
+4) Actual result
+5) Expected result
+6) Status
+7) Comments
