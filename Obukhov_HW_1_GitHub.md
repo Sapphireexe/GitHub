@@ -63,7 +63,7 @@ $ vim new.json
 $ git commit -am "added info to new.json"
 $ git push
 ```
- **12.** Создать файл `preferences.json`
+ **12.** Создать файл `preferences.json`.
  ```
 $ cat > preferences.json
 ```
