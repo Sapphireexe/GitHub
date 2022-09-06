@@ -193,7 +193,7 @@ $ vim new.xml
 $ git commit -am "Added info to new.xml"
 $ git push
 ```
- **29.** Создать файл `preferences.xml`
+ **29.** Создать файл `preferences.xml`.
  ```
 $ touch preferences.xml
 ```
